@@ -9,9 +9,7 @@ const Accounts = () => {
         <Text>CAP</Text>
         <Text>TAP</Text>
       </View>
-      <View className='flex-col'>
-        <AccountsList />
-      </View>
+      <AccountsList />
     </View>
   );
 };
